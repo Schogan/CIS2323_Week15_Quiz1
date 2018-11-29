@@ -21,7 +21,7 @@ public class CIS2323_Week15_Quiz1 {
 			System.out.println("Size " + attr.size());
 		}
 		catch(IOException e) {
-			System.out.println("IO Exception");
+			System.out.println("It Broke");
 		}
 	}
 }
